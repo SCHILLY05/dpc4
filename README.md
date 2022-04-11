@@ -1,5 +1,5 @@
 # DPC4 Modpack
-Der dpc4-files Ordner aus der Zip Datei muss unter C:\Users\USERNAME\curseforge\minecraft\Instances\ gespeichert werden (Bei Default Installation von Curseforge).
+Der dpc4-files Ordner aus der Zip Datei muss unter C:\Users\USERNAME\curseforge\minecraft\Instances\ (bei Standard Installation von Curseforge) gespeichert oder über die Option "Create Custom Profile" importiert werden.
 # Modliste
 + Advanced Netherite
 + Advanced Generators
