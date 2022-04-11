@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SCHILLY_05",
+      "uniqueId": "9bc5c24a-52fc-42e8-9f27-f6236aa6c2bf"
+    },
+    "time": 1649452072731,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/7z5lkFu09z"
+    }
+  }
+]

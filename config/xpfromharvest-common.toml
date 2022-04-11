@@ -1,0 +1,10 @@
+
+[category1]
+	#XpAmount get for each crop
+	XpAmount = 3
+	#Enables Simple Harvest whith right click
+	"Simple Harvest" = true
+	#% Chance of get xp 
+	#Range: 1.0 ~ 100.0
+	"% Chance " = 80.0
+

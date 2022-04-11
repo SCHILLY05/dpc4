@@ -1,0 +1,154 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = minecraft_cave_animation_fancymenu_21938kf312
+  action = animatebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = element
+  orientation_element = vanillabtn:400298
+  x = 0
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=400322%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  seconds = 2.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  orientation = bottom-left
+  delayappearanceseconds = 2.5
+  path = dpc4png.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = 0
+  width = 67
+  action = addtexture
+  actionid = bd654ccc-b2a6-4b23-ba06-ac56b6bd06121649596540337
+  y = -16
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 16
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  delayappearanceseconds = 2.5
+  buttonaction = joinserver
+  label = Join DPC4 Server
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  orientation_element = vanillabtn:400298
+  x = 102
+  width = 98
+  actionid = 1a87f006-c835-43b4-abcb-9d45e25d75ba1649621069523
+  action = addbutton
+  y = 24
+  delayappearance = true
+  value = dphost.ddns.net:35565
+  delayappearanceeverytime = false
+  height = 20
+}
+
+customization {
+  identifier = %id=604382%
+  seconds = 2.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376322%
+  seconds = 2.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400382%
+  seconds = 2.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502382%
+  seconds = 2.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376382%
+  seconds = 2.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400298%
+  seconds = 2.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400346%
+  seconds = 2.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502346%
+  seconds = 2.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
